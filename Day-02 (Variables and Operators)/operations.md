@@ -55,7 +55,7 @@ Output:
 Assignment operators are used to assign values to variables.    
 
 
-<img src="Assignment.png" class="img-responsive" alt=""> </div>
+<img src="Assign.png" class="img-responsive" alt=""> </div>
 
 *Example*  
 
