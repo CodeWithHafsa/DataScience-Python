@@ -1,0 +1,48 @@
+METHODS TO WRITE "HELLO WORLD" Using Python:
+We can write python using different platforms such as:
+1. With console
+2. With physical file
+3. With VS code
+4. With VS code Jupyter Notebook
+5. With Jupyter Notebook
+6. Google Colab
+7. Annconda Cloud
+8. AWS Sagemaker
+
+Method#1: Hello World with **console**:
+* Go to search menu ---> Write 'Annaconda' or 'cmd'
+* Write Python
+* Write print("Hello World")
+* Output: Hello World
+
+Method#2: Hello World with **VS Code**:
+* Go to search menu --->**Annaconda**
+  * `cd <pastepath>`
+  * Write `code .`
+  * Explorer - Folder - Create New File - **abc.py**
+* Write print("Hello World")
+* Output: Hello World
+
+Method#3: Hello World with **VS Code Jupyter Notebook**:
+* Go to search menu --->**Annaconda**
+  * `cd <pastepath>`
+  * Write `code .`
+  * Create new file - **abc.ipnb**
+* Write print("Hello World")
+* Output: Hello World
+
+Method#4: Hello World with **Jupyter Notebook**:
+* Go to search menu ---> Write  <span style="color: orange;">**Annaconda or cmd **</span>
+  * `cd <pastepath>`
+  * Go to `jupyternotebook`
+  * Click New -- Select "Python3" then run program.
+* Write print("Hello World")
+* Output: Hello World
+
+Method#5: Hello World with **Google Collab**
+* Login using gmail --> Create New Notebook.
+* Write print("Hello World")
+* Output: Hello World
+
+Link: https://github.com/CodeWithHafsa/DataScience-Python/blob/main/Day-01%20(Introduction)/Helloworld.md (Using Github)
+Link: https://www.linkedin.com/posts/hafsa-imtiaz-45453a286_methods-to-write-hello-world-using-python-activity-7092115475244961792-DaEG?utm_source=share&utm_medium=member_desktop (Using LinkedIn)
